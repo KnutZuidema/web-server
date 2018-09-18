@@ -19,4 +19,4 @@ if __name__ == '__main__':
 ```
 
 This will listen on `localhost:5000` and serve the `index.html` file at `/`,
-on unregistered paths the server will return a `503 Bad Gateway` response
+on unregistered paths the server will return a `502 Bad Gateway` response
